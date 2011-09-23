@@ -100,10 +100,10 @@ MIDDLEWARE_CLASSES = (
     'django.contrib.messages.middleware.MessageMiddleware',
 )
 
-ROOT_URLCONF = 'firstapp.urls'
+ROOT_URLCONF = 'beertest.urls'
 
 TEMPLATE_DIRS = (
-    "/Users/mbarackman/Documents/django/templates"
+    "/Users/mbarackman/Documents/django/beertest/templates"
 )    
 
 INSTALLED_APPS = (
